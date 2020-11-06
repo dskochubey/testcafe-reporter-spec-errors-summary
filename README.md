@@ -1,13 +1,13 @@
 # testcafe-reporter-spec-errors-summary
 [![Build Status](https://travis-ci.org/dskochubey/testcafe-reporter-spec-errors-summary.svg)](https://travis-ci.org/dskochubey/testcafe-reporter-spec-errors-summary)
 
-This is the **spec-errors-summary** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe).
+This is the **spec-errors-summary** reporter plugin for [TestCafe](http://devexpress.github.io/testcafe). The main difference from built-in **spec** report is this one shows summary of all error next to test execution result.
 
 <p align="center">
     <img src="https://raw.github.com/dskochubey/testcafe-reporter-spec-errors-summary/master/media/preview.png" alt="preview" />
 </p>
 
-## Install
+## Install 
 
 ```
 npm install testcafe-reporter-spec-errors-summary
