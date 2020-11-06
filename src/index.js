@@ -153,9 +153,6 @@ function createReporter() {
                     this.newline().setIndent(1).write(title);
                     this._renderErrors(ft.errs);
                 });
-
-                // .write(this.afterErrorList)
-                this.newline().write("Done").newline();
             }
         },
     };
